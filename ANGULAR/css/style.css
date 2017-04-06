@@ -1,0 +1,18 @@
+#celda{
+	background-color: lightblue;
+	border: 2px solid black;
+}
+body {
+	background-color: #444444;
+}
+h1{
+	color: black;
+	font: italic;
+
+}
+p{
+	font-family: comic;
+	font-size: 15px;
+	font: bold;
+	color: black;
+}
